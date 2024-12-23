@@ -1,0 +1,57 @@
+﻿
+
+@{
+    ViewData["Title"] = "Contact Us";
+}
+
+<section id="contact" class="container my-5">
+    <div class="row">
+        <div class="col-md-6">
+            <h2 class="section-title">Get in Touch</h2>
+            <p>We're here to help and answer any question you might have. We look forward to hearing from you!</p>
+
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Your Name</label>
+                    <input type="text" class="form-control" id="name" placeholder="Enter your name">
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email Address</label>
+                    <input type="email" class="form-control" id="email" placeholder="Enter your email">
+                </div>
+                <div class="mb-3">
+                    <label for="subject" class="form-label">Subject</label>
+                    <input type="text" class="form-control" id="subject" placeholder="Subject">
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Message</label>
+                    <textarea class="form-control" id="message" rows="4" placeholder="Write your message here"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Send Message</button>
+            </form>
+        </div>
+
+        <div class="col-md-6">
+            <h2 class="section-title">Contact Information</h2>
+            <ul class="list-unstyled">
+                <li><i class="fa fa-map-marker"></i> 123 Book Street, Ho Chi Minh City, Vietnam</li>
+                <li><i class="fa fa-phone"></i> +84 123 456 789</li>
+                <li><i class="fa fa-envelope"></i> support@bookhimay.com</li>
+            </ul>
+
+            <h5>Follow Us</h5>
+            <div class="social-links">
+                <a href="https://www.facebook.com/" class="me-2"><i class="icon icon-facebook"></i></a>
+                <a href="https://twitter.com/home" class="me-2"><i class="icon icon-twitter"></i></a>
+                <a href="https://www.youtube.com/" class="me-2"><i class="icon icon-youtube-play"></i></a>
+                <a href="#" class="me-2"><i class="icon icon-behance-square"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+}
+

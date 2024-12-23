@@ -1,0 +1,102 @@
+﻿<body>
+<button class="chatbot-toggler">
+    <i class="fas fa-comment"></i>
+</button>
+<div class="chatbot">
+    <header>
+        <h2>Trợ lý ảo sờ gu</h2>
+        <span class="close-btn material-symbols-outlined"><i class="fas fa-user-alt"></i></span>
+    </header>
+    <ul class="chatbox">
+        <li class="chat incoming">
+            <span class="material-symbols-outlined"><i class="fas fa-user-alt"></i></span>
+            <p>Xin chào 👋<br>Hỏi tôi bất kì điều gì?</p>
+        </li>
+    </ul>
+    <div class="chat-input">
+        <textarea placeholder="Nhập nội dung..." spellcheck="false" required></textarea>
+        <span id="send-btn" class="material-symbols-rounded">send</span>
+    </div>
+</div>
+</body>
+</html>
+<script>
+    const chatbotToggler = document.querySelector(".chatbot-toggler");
+    const closeBtn = document.querySelector(".close-btn");
+    const chatbox = document.querySelector(".chatbox");
+    const chatInput = document.querySelector(".chat-input textarea");
+    const sendChatBtn = document.querySelector(".chat-input span");
+
+    let userMessage = null;
+    const API_KEY = "sk-proj-kR9zzBVU60GSxWRoEjKDT3BlbkFJao7WJgEJEwbWErzn4MY2";
+    const inputInitHeight = chatInput.scrollHeight;
+
+    const createChatLi = (message, className) => {
+        const chatLi = document.createElement("li");
+        chatLi.classList.add("chat", `${className}`);
+        let chatContent = className === "outgoing" ? `<p></p>` : `<span class="material-symbols-outlined"></span><p></p>`;
+        chatLi.innerHTML = chatContent;
+        chatLi.querySelector("p").textContent = message;
+        return chatLi;
+    }
+
+    const generateResponse = (chatElement) => {
+        const API_URL = "https://api.openai.com/v1/chat/completions";
+        const messageElement = chatElement.querySelector("p");
+        const prompt1 = "Tự xưng là trợ lý ảo Sờ Gu, trả lời ngắn gọn bằng tiếng việt, tập trung trọng tâm";
+        const prompt2 = "Nội dung trả lời chủ yếu xoay quanh kinh doanh sản phẩm sách báo, các loại sách của các lĩnh vực kinh tế, chính trị, văn học...";
+
+        const requestOptions = {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                "Authorization": `Bearer ${API_KEY}`
+            },
+            body: JSON.stringify({
+                model: "gpt-3.5-turbo",
+                messages: [{ role: "user", content: userMessage + prompt1 + prompt2 }],
+            })
+        }
+
+        fetch(API_URL, requestOptions).then(res => res.json()).then(data => {
+            messageElement.textContent = data.choices[0].message.content.trim();
+        }).catch(() => {
+            messageElement.classList.add("error");
+            messageElement.textContent = "Có lỗi xảy ra vui lòng thử lại.";
+        }).finally(() => chatbox.scrollTo(0, chatbox.scrollHeight));
+    }
+
+    const handleChat = () => {
+        userMessage = chatInput.value.trim();
+        if (!userMessage) return;
+
+        chatInput.value = "";
+        chatInput.style.height = `${inputInitHeight}px`;
+
+        chatbox.appendChild(createChatLi(userMessage, "outgoing"));
+        chatbox.scrollTo(0, chatbox.scrollHeight);
+
+        setTimeout(() => {
+            const incomingChatLi = createChatLi("Đang xử lý...", "incoming");
+            chatbox.appendChild(incomingChatLi);
+            chatbox.scrollTo(0, chatbox.scrollHeight);
+            generateResponse(incomingChatLi);
+        }, 600);
+    }
+
+    chatInput.addEventListener("input", () => {
+        chatInput.style.height = `${inputInitHeight}px`;
+        chatInput.style.height = `${chatInput.scrollHeight}px`;
+    });
+
+    chatInput.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" && !e.shiftKey && window.innerWidth > 800) {
+            e.preventDefault();
+            handleChat();
+        }
+    });
+
+    sendChatBtn.addEventListener("click", handleChat);
+    closeBtn.addEventListener("click", () => document.body.classList.remove("show-chatbot"));
+    chatbotToggler.addEventListener("click", () => document.body.classList.toggle("show-chatbot"));
+</script>

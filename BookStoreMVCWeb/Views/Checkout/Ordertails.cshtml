@@ -1,0 +1,37 @@
+﻿@model OrderDetailsViewModel
+
+<h2>Order Details</h2>
+
+<div>
+    <p><strong>User Name:</strong> @Model.UserName</p>
+    <p><strong>PhoneNumber:</strong>@Model.PhoneNumber</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Book</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.CartItems)
+        {
+            <tr>
+                <td>@item.Book.Title</td>
+                <td>@item.Book.Price</td>
+                <td>@item.Quantity</td>
+                <td>@((item.Book.Price * item.Quantity).ToString("C", new System.Globalization.CultureInfo("vi-VN")))</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Total: @Model.TotalPrice.ToString("C", new System.Globalization.CultureInfo("vi-VN"))</h3>
+
+<form asp-action="Checkout" method="post">
+    <button type="submit" class="btn btn-primary">Thanh Toán Đơn Hàng</button>
+</form>

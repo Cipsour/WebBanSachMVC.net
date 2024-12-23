@@ -1,0 +1,50 @@
+﻿@model UserVm
+@{
+    ViewData["Title"] = "Register User";
+}
+<section id="form">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-sm-offet-1">
+                <div class="signup-form">
+                    <h2>Sign In</h2>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <form asp-action="Create" asp-controller="Account">
+                        <div class="form-group">
+                            <label>UserName</label>
+                            <input asp-for="UserName" class="form-control" />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>Email</label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>PassWord</label>
+                            <input asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>Opccupation</label>
+                            <input asp-for="Opccupation" class="form-control" />
+                            <span asp-validation-for="Opccupation" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>PhoneNumber</label>
+                            <input asp-for="PhoneNumber" class="form-control" />
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Sign Up</button>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Dell\Desktop\Publish</_PublishTargetUrl>
+    <History>True|2024-06-20T15:57:22.1260357Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="BookStoreMVCWebContext">
+      <Value>Server=DESKTOP-NPNHAKO\SQLEXPRESS%3bDatabase=BookStoreMVCWeb.Data%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="BookStoreMVCWeb.Data.BookStoreMVCWebContext">
+      <Value>Server=DESKTOP-NPNHAKO\SQLEXPRESS%3bDatabase=BookStoreMVCWeb.Data%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

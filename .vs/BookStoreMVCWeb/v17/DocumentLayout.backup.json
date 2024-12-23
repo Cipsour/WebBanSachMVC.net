@@ -1,0 +1,1060 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\views\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\views\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\migrations\\20241114024914_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\migrations\\20241114024914_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\models\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\models\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\migrations\\bookstoremvcwebcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\migrations\\bookstoremvcwebcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\data\\bookstoremvcwebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\data\\bookstoremvcwebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\areas\\admin\\views\\roles\\edituserinrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\areas\\admin\\views\\roles\\edituserinrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\areas\\admin\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\areas\\admin\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\js\\regular.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\js\\regular.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\less\\_fixed-width.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\less\\_fixed-width.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\themes\\css\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\themes\\css\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\themes\\css\\normalize.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\themes\\css\\normalize.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\themes\\js\\plugins.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\themes\\js\\plugins.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\themes\\js\\modernizr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\themes\\js\\modernizr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\webfonts\\fa-brands-400.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\webfonts\\fa-brands-400.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\sprites\\brands.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\sprites\\brands.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\scss\\_fixed-width.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\scss\\_fixed-width.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\scss\\_mixins.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\scss\\_mixins.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\scss\\_list.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\scss\\_list.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\metadata\\shims.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\metadata\\shims.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\metadata\\icon-families.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\metadata\\icon-families.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\js\\v4-shims.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\js\\v4-shims.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\less\\_bordered-pulled.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\less\\_bordered-pulled.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\less\\_icons.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\less\\_icons.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\less\\_animated.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\less\\_animated.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\js\\brands.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\js\\brands.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\js\\all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\js\\all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\v5-font-face.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\v5-font-face.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\v4-shims.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\v4-shims.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\v4-font-face.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\v4-font-face.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\svg-with-js.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\svg-with-js.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\regular.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\regular.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\solid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\solid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\brands.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\brands.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\fontawesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\fontawesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\all.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\all.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\all2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\fontawesome\\css\\all2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\wwwroot\\css\\mycss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\wwwroot\\css\\mycss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\models\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\models\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\controllers\\chatgptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\controllers\\chatgptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|d:\\cipsour\\sgu\\hk1_2025\\.net\\bookstoremvcweb\\bookstoremvcweb\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAF46E3-D44A-42CF-B13B-58976F25C40C}|BookStoreMVCWeb\\BookStoreMVCWeb.csproj|solutionrelative:bookstoremvcweb\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Views\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Views\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Views\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "BookStoreMVCWeb\\Views\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T02:33:19.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\ViewModel\\LoginVm.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Models\\ViewModel\\LoginVm.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\ViewModel\\LoginVm.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Models\\ViewModel\\LoginVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:31:55.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:31:24.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookStoreMVCWebContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Migrations\\BookStoreMVCWebContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Migrations\\BookStoreMVCWebContextModelSnapshot.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Migrations\\BookStoreMVCWebContextModelSnapshot.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Migrations\\BookStoreMVCWebContextModelSnapshot.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwGkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:30:30.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:45:28.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Views\\Account\\Create.cshtml",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "BookStoreMVCWeb\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T09:12:27.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Models\\SeedData.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\SeedData.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Models\\SeedData.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:21:03.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BookStoreMVCWeb\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T02:52:30.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Models\\Order.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\Order.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:25:22.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:31:00.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241114024914_initial.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Migrations\\20241114024914_initial.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Migrations\\20241114024914_initial.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Migrations\\20241114024914_initial.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Migrations\\20241114024914_initial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:49:14.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\appsettings.json",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\appsettings.json",
+              "RelativeToolTip": "BookStoreMVCWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T02:40:42.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:45:14.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Models\\Book.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\Book.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Models\\Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:25:19.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:59:55.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookStoreMVCWebContext.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Data\\BookStoreMVCWebContext.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Data\\BookStoreMVCWebContext.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Data\\BookStoreMVCWebContext.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Data\\BookStoreMVCWebContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:31:03.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Models\\AppUser.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\AppUser.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:31:14.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Controllers\\StoreController.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:31:02.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Models\\Cart.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\Cart.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:38:50.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:40:43.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Models\\Review.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\Review.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:51:55.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Program.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Program.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:34:51.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "chat.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\themes\\css\\chat.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\themes\\css\\chat.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\themes\\css\\chat.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\themes\\css\\chat.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:32:46.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_fixed-width.less",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_fixed-width.less",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_fixed-width.less",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_fixed-width.less",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_fixed-width.less",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2024-11-21T08:32:56.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "regular.js",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\regular.js",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\regular.js",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\regular.js",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\regular.js",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAuwMgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T08:32:57.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswBAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:03:27.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditUserInRole.cshtml",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Views\\Roles\\EditUserInRole.cshtml",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Areas\\Admin\\Views\\Roles\\EditUserInRole.cshtml",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Views\\Roles\\EditUserInRole.cshtml",
+              "RelativeToolTip": "BookStoreMVCWeb\\Areas\\Admin\\Views\\Roles\\EditUserInRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T08:45:56.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "BookStoreMVCWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T08:45:38.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BookStoreMVCWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T08:45:45.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Areas\\Admin\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Areas\\Admin\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "BookStoreMVCWeb\\Areas\\Admin\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T08:45:51.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "normalize.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\themes\\css\\normalize.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\themes\\css\\normalize.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\themes\\css\\normalize.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\themes\\css\\normalize.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:32:45.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "plugins.js",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\themes\\js\\plugins.js",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\themes\\js\\plugins.js",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\themes\\js\\plugins.js",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\themes\\js\\plugins.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T08:32:42.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "modernizr.js",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\themes\\js\\modernizr.js",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\themes\\js\\modernizr.js",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\themes\\js\\modernizr.js",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\themes\\js\\modernizr.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T08:32:40.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "jquery.js",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T08:32:17.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "fa-brands-400.ttf",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\webfonts\\fa-brands-400.ttf",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\webfonts\\fa-brands-400.ttf",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\webfonts\\fa-brands-400.ttf",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\webfonts\\fa-brands-400.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKSSURBVDhPzZTPbxJBFMffDLCwQAUxEOkP0FJCDzUlUQ7\u002BBxy8eSYSD/43JvY/8O7Vi\u002BEPKL0QEy8NNZHUSrSAsfxmZ3/43uzOFqiJ9eZn8zKzb2a\u002B773ZmWVbW1uBYDAIjDH4F2i\u002B4zh2v993xuOx60QHe43sIVHE9d4Kis5QSLRarfeNRuNDs9k8o4FgqVQ6KJcPy/H4xgY5boksZz6f2\u002Bl0\u002Bl44HE5gxu\u002BOj4/bgXq9/nJ7eycXQ7D0awK0EyG37zXroFAIua/regrN7vV654FarfYim81uapoWlrEVjuN1bqL2m3NOWTIUzmCmDzCn71yOeOCeXhu9q8fz/YlUKgW5XI4Xi8VspVJ5xWmiZVkrYrZt37Bl//JcyhYzZVg6x7KjUnB5MombpgW/RgZMZkK\u002Buz7TD0zzCOoTJIrGSNgXVCZMG4YTEz6fT\u002BGyP/eFyFR261mSKeGVDGmRwOy6lws4\u002BTSEMxSdL0x/TM2jdjkAoVr/o6hBwzDhx4DExvCxTe3EH1PmfTGJElJweqUFxHAi4BtmF8QwMZ3Bl\u002B4MWqcjPxu/tbF11oJ4cDyfMh45p1MTej9nEEex/XwIIADQ7howGBpgWqsC60ZQw/FGSMdCWDDF/VpgyYl4AA4KEdjZjIDAjb4YGPJjUXY3ypdC1Jc94GqzRxPLnhhga7EwJO7okE7pcFiMwf5D3bmcOpZp2\u002B5qZF3Qxe1zQwg5ENehm8\u002BEvj7K66CFGMSjIXi8F4NnTxJXTwvR06gWFHLFX2Bvjo7eFnZ3DyKRiIPlkDb\u002BdZYjwwJtjGfsLp1dedYYdw8zl7dE9vFOzzudzgWrVqvPk8lkBq\u002BO5pbhlrQmKhcqpBj9wbx/Mo0JIcwrxPX8vwD8Bk7yChnmb0LrAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-21T08:32:14.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "brands.svg",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\sprites\\brands.svg",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\sprites\\brands.svg",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\sprites\\brands.svg",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\sprites\\brands.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-21T08:32:07.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_fixed-width.scss",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_fixed-width.scss",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_fixed-width.scss",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_fixed-width.scss",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_fixed-width.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-21T08:32:03.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_mixins.scss",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_mixins.scss",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_mixins.scss",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_mixins.scss",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_mixins.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-21T08:32:01.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_list.scss",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_list.scss",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_list.scss",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_list.scss",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\scss\\_list.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-21T08:31:59.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "shims.json",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\metadata\\shims.json",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\metadata\\shims.json",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\metadata\\shims.json",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\metadata\\shims.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T08:31:56.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "icon-families.json",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\metadata\\icon-families.json",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\metadata\\icon-families.json",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\metadata\\icon-families.json",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\metadata\\icon-families.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T08:31:52.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_icons.less",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_icons.less",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_icons.less",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_icons.less",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_icons.less",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2024-11-21T08:31:46.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "v4-shims.js",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\v4-shims.js",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\v4-shims.js",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\v4-shims.js",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\v4-shims.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T08:31:44.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_animated.less",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_animated.less",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_animated.less",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_animated.less",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_animated.less",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2024-11-21T08:08:49.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_bordered-pulled.less",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_bordered-pulled.less",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_bordered-pulled.less",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_bordered-pulled.less",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\less\\_bordered-pulled.less",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2024-11-21T08:08:48.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "brands.js",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\brands.js",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\brands.js",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\brands.js",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\brands.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T08:08:44.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "all.js",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\all.js",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\all.js",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\all.js",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\js\\all.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T08:08:43.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "v5-font-face.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v5-font-face.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v5-font-face.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v5-font-face.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v5-font-face.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:08:40.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "v4-shims.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v4-shims.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v4-shims.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v4-shims.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v4-shims.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:08:39.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "v4-font-face.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v4-font-face.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v4-font-face.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v4-font-face.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\v4-font-face.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:08:37.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "svg-with-js.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\svg-with-js.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\svg-with-js.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\svg-with-js.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\svg-with-js.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:08:36.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "regular.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\regular.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\regular.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\regular.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\regular.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:08:33.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "solid.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\solid.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\solid.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\solid.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\solid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:08:32.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "brands.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\brands.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\brands.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\brands.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\brands.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:08:30.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "fontawesome.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\fontawesome.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\fontawesome.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\fontawesome.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\fontawesome.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:08:29.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "all.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\all.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\all.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\all.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\all.css",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:08:25.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "all2.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\all2.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\all2.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\all2.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\fontawesome\\css\\all2.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:08:23.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T08:06:21.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:06:17.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T08:06:08.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:06:03.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "myCSS.css",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\css\\myCSS.css",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\wwwroot\\css\\myCSS.css",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\wwwroot\\css\\myCSS.css",
+              "RelativeToolTip": "BookStoreMVCWeb\\wwwroot\\css\\myCSS.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T08:06:00.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserVm.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\UserVm.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Models\\UserVm.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\UserVm.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Models\\UserVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:31:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ChatGPTController.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\ChatGPTController.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Controllers\\ChatGPTController.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Controllers\\ChatGPTController.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Controllers\\ChatGPTController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:31:01.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "BookStoreMVCWeb\\Models\\CartItem.cs",
+              "ToolTip": "D:\\Cipsour\\SGU\\HK1_2025\\.NET\\BookStoreMVCWeb\\BookStoreMVCWeb\\Models\\CartItem.cs",
+              "RelativeToolTip": "BookStoreMVCWeb\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:25:20.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

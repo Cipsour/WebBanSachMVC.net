@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Order>
+@{
+    ViewData["title"] = "Đơn hàng đã đặt";
+}
+<h1>List Orders</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">STT</th>
+            <th scope="col">Order Code</th>
+            <th scope="col">Order Status</th>
+            <th scope="col">Order Date</th>
+            <th scope="col">Phone Number</th>
+            <th scope="col">UserName</th>
+            <th scope="col">Actions</th> <!-- Cột mới cho các hành động -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.OrderCode</td>
+                <td>
+                    @if (item.Status == 1)
+                    {
+                        <span class="text text-success">Đơn hàng Mới</span>
+                    }
+                    else
+                    {
+                        <span class="text text-danger">Đơn hàng Thành Công</span>
+                    }
+
+                 
+                </td>
+                <td>@item.CreatedDate</td>
+                <td>@item.PhoneNumber</td>
+                <td>@item.UserName</td>
+                <td>
+                    <!-- Nút duyệt đơn hàng -->
+                    @if (!item.IsApproved && !item.IsCanceled)
+                    {
+                        <a asp-action="ApproveOrder" asp-controller="Order" asp-route-id="@item.OrderCode" class="btn btn-success">Duyệt</a>
+                    }
+                    <!-- Nút hủy đơn hàng -->
+                    @if (!item.IsCanceled && !item.IsApproved)
+                    {
+                        <a asp-action="CancelOrder" asp-controller="Order" asp-route-id="@item.OrderCode" class="btn btn-danger">Hủy</a>
+                    }
+                    <!-- Thêm điều kiện hiển thị duyệt hoặc hủy -->
+                    @if (item.IsApproved)
+                    {
+                        <span class="text text-info"> (Đã Duyệt)</span>
+                    }
+                    else if (item.IsCanceled)
+                    {
+                        <span class="text text-danger"> (Đã Hủy)</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

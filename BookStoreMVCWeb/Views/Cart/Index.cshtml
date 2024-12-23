@@ -1,0 +1,74 @@
+﻿@model List<BookStoreMVCWeb.Models.CartItem>
+<h1> Cart</h1>
+@if (Model.Count > 0)
+{
+    decimal total = 0;
+    int stt = 1;
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Book</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Remove</th>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            var bookTotal = (@item.Book?.Price ?? 0) * @item.Quantity;
+            total += bookTotal;
+            <tbody>
+           
+                
+                    <tr>
+                     
+                    <td>
+                         <a class="a-cleanup" asp-controller="Store" asp-action="Details" asp-route-id="@item.Id">
+                            <img src="@item.Book?.ImageUrl" style="height:4em">
+                            </a>
+                        </td>
+                    <td>
+                         <a class="a-cleanup" asp-controller="Store" asp-action="Details" asp-route-id="@item.Id">
+                        @item.Book?.Title
+                        </a>
+                    </td>
+                    <td>
+                        @bookTotal.ToString("c")
+                    </td>
+                    <td>
+                        <a class="a-cleanup" asp-controller="Cart" asp-action="Decrease" asp-route-id="@item.Id"><i class="fa-solid fa-minus"></i> </a>
+                        <span class="badge bg-primary">@item.Quantity</span>
+                        <a class="a-cleanup" asp-controller="Cart" asp-action="Increase" asp-route-id="@item.Id"><i class="fa-solid fa-plus"></i> </a>
+                    </td>
+                    <td>
+                        <a class="btn btn-danger" asp-controller="Cart" asp-action="Remove" asp-route-id="@item.Id"><i class="fa-solid fa-trash"></i></a>
+                    </td>
+                </tr>
+                
+            
+        </tbody>
+        }
+        <tfoot>
+            <tr>
+            <td></td>
+            <td class="text-right">
+                <strong>Total:</strong>
+            </td>
+            <td>
+                <strong>@total.ToString("c")</strong>
+            </td>
+                    @if (User.Identity?.IsAuthenticated ?? false)
+                    {
+                    <td><a class="btn btn-primary" asp-controller="Checkout" asp-action="Ordertails">Checkout</a></td>
+                    }
+             <td><a  asp-controller="Cart" asp-action="Clear">Clear</a></td>
+            </tr>
+        </tfoot>
+        
+    </table>
+}
+else
+{
+    <h3 class="text-center"> Cart is Empty</h3>
+}

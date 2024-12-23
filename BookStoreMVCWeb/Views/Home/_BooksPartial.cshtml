@@ -1,0 +1,19 @@
+﻿@model IEnumerable<BookStoreMVCWeb.Models.Book>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3">
+            <div class="product-item">
+                <figure class="product-style">
+                    <img src="@item.ImageUrl" alt="Books" class="product-item">
+                    <a asp-controller="Cart" asp-action="AddToCart" asp-route-id="@item.Id" class="btn btn-primary float right">Thêm Vào Giỏ Hàng</a>
+                </figure>
+                <figcaption>
+                    <h3>@item.Title</h3>
+                    <span>@item.Author</span>
+                    <div class="item-price">$@item.Price</div>
+                </figcaption>
+            </div>
+        </div>
+    }
+</div>
