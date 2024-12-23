@@ -32,8 +32,6 @@ Mở file appsettings.json trong project và sửa chuỗi kết nối cơ sở 
 Khởi tạo cơ sở dữ liệu:
 
 Chạy các lệnh:
-bash
-Sao chép mã
 dotnet ef migrations add InitialCreate  
 dotnet ef database update  
 Chạy project:
